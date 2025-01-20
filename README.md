@@ -1,6 +1,6 @@
 # Fetch-Rewards-Take-Home-Test
 
-**Folder Structure :** The 5 files in this folder as numerically indexed based on the submission order.
+1\. **Folder Structure :** The 5 files in this folder as numerically indexed based on the submission order.
 
   
 
